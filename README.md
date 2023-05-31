@@ -1,2 +1,2 @@
 # jogo Da Forca
-Jogo da Forca em python
+Jogo da Forca feito em python
